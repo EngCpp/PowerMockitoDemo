@@ -1,1 +1,3 @@
 # PowerMockitoDemo
+
+Example of PowerMockito 
